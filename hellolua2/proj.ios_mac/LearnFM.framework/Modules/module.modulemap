@@ -1,0 +1,6 @@
+framework module LearnFM {
+  umbrella header "LearnFM.h"
+
+  export *
+  module * { export * }
+}
